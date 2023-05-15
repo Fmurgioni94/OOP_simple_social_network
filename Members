@@ -13,13 +13,13 @@ class Member:
 
         > position : this attribute store the position of the member.
 
-        > fiend : this attribute store the list of fiends that a member has.
+        > friend : this attribute store the list of fiends that a member has.
 
-        > common fiend : in this attribute is stored how many fiend a member has in common with the other members.
+        > common friend : in this attribute is stored how many fiend a member has in common with the other members.
 
     Methods :
 
-        > sort_fiend_list : this method sort the list of friends.
+        > sort_friend_list : this method sort the list of friends.
 
         > member_creator : this method it's called in another class, it is used to create the instances for this class.
 
